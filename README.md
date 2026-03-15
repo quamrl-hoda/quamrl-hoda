@@ -8,15 +8,12 @@ Based in **Jalandhar, Punjab, India** · Founder of **[Cognefy](https://www.cogn
 
 📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
-<hr style="border: none; border-top: 0.5px solid #e1e4e8; margin: 10px 0;">
 
 ## 🏢 Cognefy
 
 [Cognefy](https://www.cognefy.tech/) is a technology studio I founded, based in India. We design and build AI-powered web applications, ML solutions, and UI/UX-first digital products — bridging the gap between cutting-edge AI research and real-world usability. Our focus is on delivering practical, scalable technology for businesses and end users alike.
 
-<hr style="border: none; border-top: 0.5px solid #e1e4e8; margin: 10px 0;">
-
-## 🚀 Projects
+##  Projects
 
 ### 🎓 [AI English Tutor](https://github.com/quamrl-hoda/ai-english-tutor) `Active`
 An adaptive conversational English tutor designed specifically for Indian language speakers — Hindi, Bengali, and more. Built on FastAPI with LLM-driven dialogue that adjusts to each learner's native language context, making English learning more accessible for Tier-2 and Tier-3 city users.
@@ -39,9 +36,8 @@ A production-grade delivery ETA prediction system with Docker containerization f
 
 `LightGBM` `MLflow` `DagsHub` `Docker` `Flask` `Python`
 
-<hr style="border: none; border-top: 0.5px solid #e1e4e8; margin: 1px 0;">
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Machine Learning** — Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Regression, Classification, Clustering, PCA
 
