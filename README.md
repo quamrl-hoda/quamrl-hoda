@@ -6,7 +6,7 @@ Hi there! 👋 Thank you for stopping by — it truly means a lot. I'm Quamrul, 
 
 Founder of **[Cognefy](https://www.cognefy.tech/)**, a technology studio focused on AI/ML application development and web products.
 
-📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
+📬 [Gmail](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 ---
 
