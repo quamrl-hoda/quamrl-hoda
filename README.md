@@ -2,11 +2,11 @@
 
 **AI/ML Engineer · MLOps · LLM Systems**
 
-I build end-to-end machine learning systems — from data pipelines to deployed APIs — with a strong focus on reproducibility, observability, and production readiness. I care deeply about closing the gap between experimentation and deployment, and I bring that discipline to every project I work on.
+Hi there! 👋 Thank you for stopping by — it truly means a lot. I'm Quamrul, an AI/ML Engineer with hands-on experience in Machine Learning, Deep Learning, and Generative AI. I build LLM-powered applications using RAG, Agentic AI, LangChain, and LangGraph — and I care deeply about making those systems scalable and production-ready, not just proof-of-concepts that never ship. My work spans the full ML lifecycle: from raw data and feature pipelines all the way to deployed APIs with experiment tracking, model registry, and reproducibility built in from day one.
 
-Based in Jalandhar, Punjab, India. Founder of **[Cognefy](https://www.cognefy.tech/)**, a technology studio focused on AI/ML application development and web products.
+Founder of **[Cognefy](https://www.cognefy.tech/)**, a technology studio focused on AI/ML application development and web products.
 
-📬 [Gmail](qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
+📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 ---
 
@@ -69,19 +69,25 @@ Integrated DeepFace with OpenCV for live inference from a webcam feed. Flask ser
 ## Technical Skills
 
 **Machine Learning**
-LightGBM, scikit-learn, YOLOv8, DeepFace, Transformers, feature engineering, model evaluation, regression, classification, computer vision
+Scikit-learn, Pandas, NumPy, LightGBM, XGBoost, Random Forest, Decision Trees, Regression, Classification, Clustering, Ensemble Models, Boosting, Bagging, PCA, Anomaly Detection
+
+**Deep Learning**
+PyTorch, TensorFlow/Keras, BERT, Transformers, Attention Models, LSTM, CNN, RNN, GAN, LLM, NLP, YOLO, Computer Vision, DeepFace
+
+**LLM & Generative AI**
+LLMs, Generative AI, Prompt Engineering, Fine-Tuning LLMs, HuggingFace, Transformers, OpenAI API, Embedding Models, Vector Databases (FAISS, Pinecone, Chroma), Semantic Search, Context-Aware Retrieval
+
+**Agentic AI**
+LangChain, LangGraph, Ollama, Retrieval-Augmented Generation (RAG), Agno (multi-agent orchestration), OpenRouter, Gemini API, Anthropic Claude API
 
 **MLOps & Infrastructure**
-MLflow (experiment tracking, model registry), DVC (data & artifact versioning), DagsHub (remote storage & collaboration), Docker (containerization & deployment)
-
-**LLM & Agent Systems**
-Agno (multi-agent orchestration), OpenRouter, Gemini API, Anthropic Claude API, prompt engineering, agent role design
+MLflow (experiment tracking, model registry), DVC (data & artifact versioning), DagsHub (remote storage & collaboration), Docker (containerization & deployment), modular pipeline architecture (`config / entity / component / pipeline`), reproducible ML workflows
 
 **Backend & APIs**
 Flask, FastAPI, REST API design, Python, uv (package management)
 
-**Engineering Practices**
-Modular pipeline architecture (`config / entity / component / pipeline`), reproducible ML workflows, experiment versioning, Git, Linux
+**Other**
+SQL, HTML, CSS, Data Analytics, Git, GitHub, Linux
 
 ---
 
