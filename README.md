@@ -9,7 +9,7 @@ Based in **Jalandhar, Punjab, India** · Founder of **[Cognefy](https://www.cogn
 📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 
-## 🏢 Cognefy
+##  Cognefy
 
 [Cognefy](https://www.cognefy.tech/) is a technology studio I founded, based in India. We design and build AI-powered web applications, ML solutions, and UI/UX-first digital products — bridging the gap between cutting-edge AI research and real-world usability. Our focus is on delivering practical, scalable technology for businesses and end users alike.
 
