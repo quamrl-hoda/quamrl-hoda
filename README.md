@@ -4,9 +4,9 @@
 
 I build end-to-end machine learning systems — from data pipelines to deployed APIs — with a strong focus on reproducibility, observability, and production readiness. I care deeply about closing the gap between experimentation and deployment, and I bring that discipline to every project I work on.
 
-Based in Purnia, Bihar, India. Founder of **[Cognefy](https://www.cognefy.tech/)**, a technology studio focused on AI/ML application development and web products.
+Based in Jalandhar, Punjab, India. Founder of **[Cognefy](https://www.cognefy.tech/)**, a technology studio focused on AI/ML application development and web products.
 
-📬 your-qhoda489@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
+📬 [Gmail](qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 ---
 
