@@ -1,208 +1,103 @@
-<div align="center">
+# Quamrul Hoda
 
-```
- ██████╗ ██╗   ██╗ █████╗ ███╗   ███╗██████╗ ██╗   ██╗██╗
-██╔═══██╗██║   ██║██╔══██╗████╗ ████║██╔══██╗██║   ██║██║
-██║   ██║██║   ██║███████║██╔████╔██║██████╔╝██║   ██║██║
-██║▄▄ ██║██║   ██║██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║
-╚██████╔╝╚██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗
- ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+**AI/ML Engineer · MLOps · LLM Systems**
 
-### `AI/ML Engineer` · `MLOps Practitioner` · `Founder @ Cognefy`
+I build end-to-end machine learning systems — from data pipelines to deployed APIs — with a strong focus on reproducibility, observability, and production readiness. I care deeply about closing the gap between experimentation and deployment, and I bring that discipline to every project I work on.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+production-grade+ML+systems+from+Bihar%2C+India;End-to-end+MLOps+%7C+LLM+Agents+%7C+Computer+Vision;Turning+models+into+products+that+reach+real+users)](https://git.io/typing-svg)
+Based in Purnia, Bihar, India. Founder of **[Cognefy](https://cognefy.com)**, a technology studio focused on AI/ML application development and web products.
 
-</div>
+📬 your-email@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 ---
 
-## ⚡ The 30-Second Version
+## Work
 
-> I build **machine learning systems that ship** — from raw data to deployed API, with experiment tracking, data versioning, and reproducibility baked in from day one.
->
-> Currently working on multi-agent LLM systems, computer vision pipelines, and an AI English tutor for Indian language speakers. Founder of **Cognefy**, building AI-powered products out of Purnia, Bihar.
->
-> Actively pursuing **ML Engineer / AI Engineer** opportunities.
+### Zomato Delivery Time Prediction
+> End-to-end regression pipeline predicting food delivery ETAs with full MLOps infrastructure.
 
----
+Built a modular ML pipeline using LightGBM with MLflow for experiment tracking, DVC for data and artifact versioning, and DagsHub as the remote backend. The project follows a strict `config → entity → component → pipeline` architecture, making it reproducible and maintainable. Served via a Flask REST API.
 
-## 🏗️ What I've Shipped
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚚 Zomato Delivery Time Predictor
-End-to-end ML pipeline predicting food delivery ETAs with full MLOps infrastructure.
-
-**Stack:** `LightGBM` `MLflow` `DVC` `DagsHub` `Flask`
-
-✅ Experiment tracking with model registry  
-✅ Data versioning & pipeline reproducibility  
-✅ REST API serving with Flask  
-
-</td>
-<td width="50%">
-
-### 🛵 Swiggy ETA Prediction System
-Production-grade delivery prediction with Docker deployment and tracked experiments.
-
-**Stack:** `LightGBM` `MLflow` `DagsHub` `Docker` `Flask`
-
-✅ Containerized deployment  
-✅ Remote artifact storage on DagsHub  
-✅ Modular config/entity/pipeline architecture  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 PlateVision — License Plate Detection
-Real-time computer vision pipeline detecting and reading vehicle plates via OCR.
-
-**Stack:** `YOLOv8` `Tesseract OCR` `DVC` `Flask`
-
-✅ Object detection + OCR pipeline  
-✅ DVC-tracked preprocessing stages  
-✅ REST API for integration  
-
-</td>
-<td width="50%">
-
-### 😊 EmotionVision — Emotion Detection
-Real-time emotion recognition system using deep learning on FER2013 dataset.
-
-**Stack:** `DeepFace` `OpenCV` `Flask` `FER2013`
-
-✅ Live webcam emotion inference  
-✅ Flask-based streaming interface  
-✅ Multi-class facial emotion classification  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Multi-Agent Article Generator *(In Progress)*
-Orchestrated multi-agent system for automated Medium article generation & publishing.
-
-**Stack:** `Agno` `OpenRouter` `Gemini` `Python`
-
-🔄 Agent orchestration with role-based workflows  
-🔄 OpenRouter multi-model routing  
-🔄 Automated content pipeline  
-
-</td>
-<td width="50%">
-
-### 🎓 AI English Tutor *(In Progress)*
-Conversational AI tutor for Indian language speakers, built for real accessibility.
-
-**Stack:** `FastAPI` `LLM APIs` `Python`
-
-🔄 Multi-language speaker support  
-🔄 Adaptive conversation flows  
-🔄 Designed for low-bandwidth environments  
-
-</td>
-</tr>
-</table>
+`LightGBM` `MLflow` `DVC` `DagsHub` `Flask` `Python` `uv`
 
 ---
 
-## 🔧 Technical Arsenal
+### Swiggy Delivery Time Prediction
+> Production-style ML pipeline with Dockerized deployment and tracked model registry.
 
-```python
-ml_stack = {
-    "modeling":    ["LightGBM", "YOLOv8", "DeepFace", "scikit-learn", "Transformers"],
-    "mlops":       ["MLflow", "DVC", "DagsHub", "Docker"],
-    "backend":     ["Flask", "FastAPI", "REST APIs"],
-    "llm_agents":  ["Agno", "OpenRouter", "Gemini", "Claude (Anthropic)"],
-    "language":    ["Python"],
-    "tooling":     ["uv", "Git", "GitHub", "Linux", "VS Code"],
-    "architecture":["config/entity/component/pipeline separation"],
-}
-```
+Similar in scope to the Zomato project but extended with Docker containerization for consistent deployment environments. Focused on model registry workflows — promoting the best experiment run to production via MLflow.
+
+`LightGBM` `MLflow` `DagsHub` `Docker` `Flask` `Python`
 
 ---
 
-## 📐 How I Engineer ML Systems
+### PlateVision — Automatic License Plate Recognition
+> Real-time computer vision pipeline for vehicle plate detection and OCR.
 
-I don't treat MLOps as an afterthought. Every project I build follows the same discipline:
+Trained a YOLOv8 object detection model to localize license plates, then passed crops through Tesseract OCR for character recognition. DVC manages the preprocessing and training stages. Exposed as a Flask API for downstream integration.
 
-```
-Raw Data → DVC Pipeline → Feature Engineering → Model Training
-    ↓                                                  ↓
-DagsHub Remote                               MLflow Experiment Tracking
-    ↓                                                  ↓
-Reproducible Artifacts              Model Registry → Best Model Selection
-                                                       ↓
-                                          Flask/FastAPI → Deployed API
-```
-
-This isn't just for show — it's how I've structured every one of my production projects.
+`YOLOv8` `Tesseract OCR` `DVC` `Flask` `OpenCV` `Python`
 
 ---
 
-## 🎯 Currently Targeting
+### EmotionVision — Real-Time Facial Emotion Detection
+> Webcam-based emotion recognition system using deep learning on FER2013.
 
-```
-├── 🏢  ML Engineer / AI Engineer roles at product-driven tech companies
-├── 📚  DSA mastery — structured 1000+ problem roadmap (Arrays → DP → Graphs)
-├── 🏛️  ML System Design at scale
-├── 🧩  RAG systems, vector databases, and retrieval-augmented pipelines
-└── 🤖  RLHF fundamentals and alignment-aware model development
-```
+Integrated DeepFace with OpenCV for live inference from a webcam feed. Flask serves the interface with real-time frame processing. Trained and evaluated on the FER2013 multi-class emotion dataset.
+
+`DeepFace` `OpenCV` `Flask` `FER2013` `Python`
 
 ---
 
-## 🏢 Cognefy — What We're Building
+### Multi-Agent Article Generation System *(Active)*
+> Orchestrated multi-agent pipeline for automated research and content publishing.
 
-**Cognefy** is my startup based in Purnia, Bihar. We build:
-- 🌐 AI-powered web applications
-- 🎨 UI/UX-first product experiences
-- 🤖 Applied AI/ML solutions for real business problems
+Building with the Agno framework, routing requests through OpenRouter to Gemini models. Each agent handles a distinct role — research, drafting, editing — with inter-agent coordination managed at the orchestration layer. Target output is publishable Medium articles.
 
-We're early. We're intentional. We're building something that matters.
+`Agno` `OpenRouter` `Gemini` `Python`
 
 ---
 
-## 📊 GitHub Activity
+### AI English Tutor *(Active)*
+> Conversational tutoring service for Indian language speakers, built on FastAPI.
 
-<div align="center">
+Designing an adaptive dialogue system that adjusts to a learner's native language context — Hindi, Bengali, and others. The architecture prioritizes low-latency responses and works within constrained network environments common in Tier-2 and Tier-3 Indian cities.
 
-![Quamrul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quamrl-hoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quamrl-hoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff)
-
-</div>
+`FastAPI` `LLM APIs` `Python`
 
 ---
 
-## 🤝 Open To
+## Technical Skills
 
-| | |
-|---|---|
-| 💼 **Full-time roles** | ML Engineer, AI Engineer, MLOps Engineer |
-| 🤝 **Collaborations** | AI/ML projects, open-source MLOps tooling |
-| 💬 **Conversations** | Agent systems, production ML, Indian AI ecosystem |
-| 🏗️ **Consulting** | ML pipeline architecture, MLOps setup |
+**Machine Learning**
+LightGBM, scikit-learn, YOLOv8, DeepFace, Transformers, feature engineering, model evaluation, regression, classification, computer vision
+
+**MLOps & Infrastructure**
+MLflow (experiment tracking, model registry), DVC (data & artifact versioning), DagsHub (remote storage & collaboration), Docker (containerization & deployment)
+
+**LLM & Agent Systems**
+Agno (multi-agent orchestration), OpenRouter, Gemini API, Anthropic Claude API, prompt engineering, agent role design
+
+**Backend & APIs**
+Flask, FastAPI, REST API design, Python, uv (package management)
+
+**Engineering Practices**
+Modular pipeline architecture (`config / entity / component / pipeline`), reproducible ML workflows, experiment versioning, Git, Linux
 
 ---
 
-<div align="center">
+## Currently
 
-**📧 Email:** [your-email@gmail.com](mailto:your-email@gmail.com) &nbsp;·&nbsp;
-**🐙 GitHub:** [quamrl-hoda](https://github.com/quamrl-hoda) &nbsp;·&nbsp;
-**💼 LinkedIn:** [your-profile](https://linkedin.com) &nbsp;·&nbsp;
-**🏢 Cognefy:** [cognefy.com](https://cognefy.com)
+- 🎯 Preparing for **ML Engineer / AI Engineer** roles — structured DSA study (Arrays, Two Pointers, Prefix Sum, Sliding Window), ML system design, and production project portfolio
+- 🏗️ Building **Cognefy** — AI-powered products and web applications
+- 📖 Deepening knowledge in RAG pipelines, vector databases, and RLHF fundamentals
 
 ---
 
-*"The gap between a notebook experiment and a production system is where most ML engineers stop. I start there."*
+## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=quamrl-hoda&color=00d9ff&style=flat-square&label=Profile+Views)
+![Stats](https://github-readme-stats.vercel.app/api?username=quamrl-hoda&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quamrl-hoda&layout=compact&hide_border=true)
 
-</div>
+---
+
+*Open to full-time ML/AI Engineer roles, research collaborations, and interesting problems in production machine learning.*
