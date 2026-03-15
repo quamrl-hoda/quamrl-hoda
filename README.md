@@ -6,7 +6,7 @@ Hi there! 👋 Thank you for stopping by — it truly means a lot. I'm Quamrul, 
 
 Based in **Jalandhar, Punjab, India** · Founder of **[Cognefy](https://www.cognefy.tech/)**
 
-📬 [Gmail](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
+📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda)
 
 ---
 
@@ -45,18 +45,6 @@ A production-grade delivery ETA prediction system with Docker containerization f
 `LightGBM` `MLflow` `DagsHub` `Docker` `Flask` `Python`
 
 ---
-
-### 🚗 [PlateVision — License Plate Recognition](https://github.com/quamrl-hoda/PlateVision)
-A real-time computer vision pipeline that detects and reads vehicle license plates. YOLOv8 localizes the plate in the frame, Tesseract OCR extracts the characters, and the result is exposed via a Flask REST API. DVC manages all preprocessing and training stages for full reproducibility.
-
-`YOLOv8` `Tesseract OCR` `DVC` `Flask` `OpenCV` `Python`
-
----
-
-### 😊 [EmotionVision — Facial Emotion Detection](https://github.com/quamrl-hoda/EmotionVision)
-A real-time emotion recognition system that classifies human emotions from a live webcam feed. Powered by DeepFace and OpenCV, trained on the FER2013 dataset, and served through a Flask interface with live frame streaming and multi-class emotion output.
-
-`DeepFace` `OpenCV` `Flask` `FER2013` `Python`
 
 ---
 
