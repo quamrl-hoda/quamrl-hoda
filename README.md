@@ -1,86 +1,24 @@
-# 👋 Hey there, I'm Quamrul Hoda
+# 👋 Greetings! I'm Quamrul Hoda
 
-🤖 **AI/ML Engineer** · 🚀 **MLOps Practitioner** · 🏗️ **Startup Builder**
+💡 I'm passionate about **Artificial Intelligence, Machine Learning, and Generative AI**, where I explore how intelligent systems can solve real-world problems. I enjoy building practical AI applications and experimenting with modern AI technologies.
 
----
+👀 My interests lie in **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Agentic AI systems**. I love transforming data into meaningful insights and building models that can automate complex tasks.
 
-## 🧠 About Me
+🌱 Currently, I’m expanding my skills in **Generative AI, Large Language Models (LLMs), and AI-powered applications**. I am actively working with tools such as **LangChain, LangGraph, Transformers, and MLOps frameworks** to develop intelligent workflows and scalable AI solutions.
 
-My world revolves around building **end-to-end ML systems** that actually ship — not just notebooks that never leave localhost. I'm deeply passionate about the intersection of machine learning, software engineering, and product thinking.
+🚀 Some projects I have worked on include:
+- **YouTube Comment Sentiment Analysis Chrome Extension** using BERT Transformers for real-time sentiment analysis.
+- **Kidney Disease Classification using Deep Learning (CNN)** for medical image analysis.
+- **Car Plate Detection using Computer Vision and YOLO** for detecting license plates in images.
 
-I'm currently preparing for **ML Engineer / AI Engineer** roles at top tech companies, sharpening both my system design and DSA muscles alongside production ML work.
+🤝 I enjoy collaborating on **AI research, machine learning projects, and open-source contributions**. Working with innovative teams and solving challenging problems motivates me to continuously improve my skills.
 
-When I'm not training models, I'm building **AI-powered products** through my startup **Cognefy**, focused on web development, UI/UX, and applied AI.
+📫 If you'd like to connect, collaborate, or discuss AI ideas, feel free to reach out:
 
----
-
-## 🔭 What I'm Working On
-
-- 🚚 **[Zomato Delivery Time Prediction](https://github.com/quamrl-hoda/zomato-delivery-time-prediction)** — LightGBM · MLflow · DagsHub · DVC · Flask
-- 🤖 **Multi-Agent Article Generator** — Agno framework · OpenRouter · Gemini models · Medium automation
-- 🎓 **AI English Tutor** — FastAPI · Multi-language support targeting Indian language speakers
-- 🔢 **DSA Interview Prep** — Structured daily study covering Arrays, Prefix Sum, Two Pointers & beyond
+📧 Email: **qhoda489@gmail.com**  
+💻 GitHub: **https://github.com/quamrl-hoda**  
+🔗 LinkedIn: *(Add your LinkedIn link here)*
 
 ---
 
-## 🏗️ Projects I've Shipped
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🚀 **Swiggy Delivery Time Prediction** | LightGBM, MLflow, DagsHub, Docker | Full MLOps pipeline with experiment tracking & containerized deployment |
-| 🚗 **PlateVision** | YOLOv8, Tesseract OCR, DVC, Flask | Car plate detection with OCR pipeline & REST API |
-| 😊 **EmotionVision** | DeepFace, OpenCV, Flask, FER2013 | Real-time emotion detection system |
-| 🛵 **Zomato ETA Predictor** | LightGBM, MLflow, DVC, Flask | End-to-end ML pipeline with model registry & serving |
-
----
-
-## ⚙️ Tech Stack
-
-**ML / AI**
-`Python` `LightGBM` `YOLOv8` `DeepFace` `Transformers` `OpenCV` `scikit-learn`
-
-**MLOps**
-`MLflow` `DagsHub` `DVC` `Docker` `uv`
-
-**Backend & APIs**
-`Flask` `FastAPI` `REST APIs`
-
-**Multi-Agent / LLM**
-`Agno` `OpenRouter` `Gemini` `Anthropic Claude`
-
-**Tools**
-`Git` `GitHub` `VS Code` `Linux`
-
----
-
-## 📈 Currently Learning
-
-- 🏛️ System Design for ML at scale
-- 📊 Advanced DSA (1000+ problems roadmap)
-- 🧩 RLHF & alignment techniques
-- 🕸️ RAG-based systems & vector databases
-
----
-
-## 💡 What Drives Me
-
-> *"I don't just want to train models — I want to build systems that solve real problems, ship products that reach real users, and grow a business that creates real value."*
-
-I believe in **learning by building**. Every project I take on is intentionally end-to-end — from data ingestion to deployment — because that's the only way to truly understand the craft.
-
----
-
-## 🤝 Let's Connect
-
-If you're working on something interesting in the AI/ML space, want to collaborate, or just want to geek out over MLOps pipelines — reach out!
-
-📧 **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)
-🐙 **GitHub**: [github.com/quamrl-hoda](https://github.com/quamrl-hoda)
-💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)
-🏢 **Cognefy**: Building AI-powered products from Bihar, India
-
----
-
-<p align="center">
-  <i>Open to MLE / AI Engineer opportunities · Remote-friendly · India-based</i>
-</p>
+✨ I believe in **continuous learning and experimentation**. The field of AI evolves rapidly, and I’m excited to keep exploring new technologies, building impactful projects, and contributing to the future of intelligent systems.
