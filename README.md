@@ -1,5 +1,8 @@
 <div align="center">
 
+### 👋 Hello, Welcome to my GitHub Profile!
+*Thank you for taking the time to stop by — I truly appreciate it.*
+
 # Quamrul Hoda
 
 **AI/ML Engineer · MLOps · LLM & Agentic Systems**
@@ -17,7 +20,7 @@
 
 ## 👨‍💻 About
 
-I'm an AI/ML Engineer with hands-on experience across the full machine learning lifecycle — from feature engineering and model training to experiment tracking, model registry, and production deployment. I specialize in **LLM-powered applications**, **Agentic AI systems**, and **MLOps pipelines** that are reproducible, maintainable, and built to scale.
+Hi there! 👋 Thank you for stopping by — it truly means a lot. I'm Quamrul, an AI/ML Engineer with hands-on experience across the full machine learning lifecycle — from feature engineering and model training to experiment tracking, model registry, and production deployment. I specialize in **LLM-powered applications**, **Agentic AI systems**, and **MLOps pipelines** that are reproducible, maintainable, and built to scale.
 
 Currently targeting **ML Engineer / AI Engineer** roles while building [Cognefy](https://www.cognefy.tech/) — a technology studio creating AI-powered products for real users.
 
