@@ -6,7 +6,7 @@ Hi there! 👋 Thank you for stopping by — it truly means a lot. I'm Quamrul, 
 
 Based in **Jalandhar, Punjab, India**
 
-📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda) [portfolio](https://personal-portfolio-tau-nine-94.vercel.app/)
+📬 [qhoda489@gmail.com](mailto:qhoda489@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/quamrl-hoda/) &nbsp;·&nbsp; [portfolio](https://personal-portfolio-tau-nine-94.vercel.app/)  &nbsp;·&nbsp; [DagsHub](https://dagshub.com/quamrl-hoda) 
 
 ##  Projects
 
